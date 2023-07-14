@@ -1,0 +1,312 @@
+Query:  cases
+
+Document 0
+[
+        Title:
+        CASES: Home
+
+        URL:
+        https://www.cases.org/
+
+        Snippet:
+        From court and program offices in the Bronx, Brooklyn, and Manhattan, CASES provides community-based alternatives to jail and prison. These programs address ...
+]
+
+Is this document relevant? (y/n)
+n
+
+Document 1
+[
+        Title:
+        CASETiFY: Show Your Colors
+
+        URL:
+        https://www.casetify.com/
+
+        Snippet:
+        CASETiFY - We make the most sustainable yet protective phone cases for iPhone 14 / iPhone 14 Pro / iPhone 14 Plus / iPhone 14 Pro Max and tech accessories.
+]
+
+Is this document relevant? (y/n)
+n
+
+Document 2
+[
+        Title:
+        CDC COVID Data Tracker: Home
+
+        URL:
+        https://covid.cdc.gov/
+
+        Snippet:
+        Stay up to date on the most recent data on vaccinations, cases, and deaths. Cases, Deaths, & Testing Case & Death Demographic Trends Vaccination Distribution & ...
+]
+
+Is this document relevant? (y/n)
+y
+
+Document 3
+[
+        Title:
+        Coronavirus COVID-19 (2019-nCoV)
+
+        URL:
+        https://www.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6
+
+        Snippet:
+        Total Cases. Data source error. Total Deaths. Data source error. Total Vaccine Doses Administered. Cases | Deaths by Country/Region/Sovereignty.
+]
+
+Is this document relevant? (y/n)
+y
+
+Document 4
+[
+        Title:
+        COVID - Coronavirus Statistics - Worldometer
+
+        URL:
+        https://www.worldometers.info/coronavirus/
+
+        Snippet:
+        Reported Cases and Deaths by Country or Territory. NOTE: Effective February 1, 2023, the Coronavirus Tracker has switched from LIVE to Daily Updates. As a ...
+]
+
+Is this document relevant? (y/n)
+y
+
+Document 5
+[
+        Title:
+        2022 U.S. Map & Case Count | Mpox | Poxvirus | CDC
+
+        URL:
+        https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html
+
+        Snippet:
+        View a map of 2022 mpox cases in the United States.
+]
+
+Is this document relevant? (y/n)
+n
+
+Document 6
+[
+        Title:
+        Cases - Coronavirus
+
+        URL:
+        https://www.vdh.virginia.gov/coronavirus/see-the-numbers/covid-19-in-virginia/covid-19-in-virginia-cases/
+
+        Snippet:
+        Jan 31, 2023 ... Case, hospitalization, and death data reflect Virginia residents only. Death data are presented by both date of report and by date of death and ...
+]
+
+Is this document relevant? (y/n)
+y
+
+Document 7
+[
+        Title:
+        Measles Cases and Outbreaks | CDC
+
+        URL:
+        https://www.cdc.gov/measles/cases-outbreaks.html
+
+        Snippet:
+        Measles cases in 2019. From January 1 to December 31, 2019, 1,274* individual cases of measles were confirmed in 31 states. This is the greatest number ...
+]
+
+Is this document relevant? (y/n)
+n
+
+Document 8
+[
+        Title:
+        Case Status and Information
+
+        URL:
+        https://www.vacourts.gov/caseinfo/home.html
+
+        Snippet:
+        Circuit Court. Circuit Court Case Information Online access to civil and criminal cases in select circuit courts. Cases may be searched by locality using name, ...
+]
+
+Is this document relevant? (y/n)
+n
+
+Document 9
+[
+        Title:
+        Odd Squad: Cases
+
+        URL:
+        https://pbskids.org/oddsquad/games/cases
+
+        Snippet:
+        Change your station. Back. Odd Squad Game: Cases. Play Pause Audio On Audio Off Voice Music Sound Effects Closed Captioning Fullscreen Help Close.
+]
+
+Is this document relevant? (y/n)
+n
+
+Target precision:  0.9
+Precision:  0.4
+Augmenting query by 'data' and 'deaths'
+Final query with ordering:  cases data deaths
+
+Query:  cases data deaths
+
+Document 0
+[
+        Title:
+        CDC COVID Data Tracker: Home
+
+        URL:
+        https://covid.cdc.gov/
+
+        Snippet:
+        Stay up to date on the most recent data on vaccinations, cases, and deaths. Cases, Deaths, & Testing Case & Death Demographic Trends Vaccination Distribution & ...
+]
+
+Is this document relevant? (y/n)
+y
+
+Document 1
+[
+        Title:
+        WHO Coronavirus (COVID-19) Dashboard
+
+        URL:
+        https://covid19.who.int/
+
+        Snippet:
+        ... situation dashboard presents official daily counts of COVID-19 cases and deaths worldwide, along with vaccination rates and other vaccination data, ...
+]
+
+Is this document relevant? (y/n)
+y
+
+Document 2
+[
+        Title:
+        Coronavirus COVID-19 (2019-nCoV)
+
+        URL:
+        https://www.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6
+
+        Snippet:
+        Data source error. Total Deaths. Data source error. Total Vaccine Doses Administered. Cases | Deaths by Country/Region/Sovereignty. Data source error.
+]
+
+Is this document relevant? (y/n)
+y
+
+Document 3
+[
+        Title:
+        COVID Data Tracker Weekly Review | CDC
+
+        URL:
+        https://www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/index.html
+
+        Snippet:
+        See the COVID Data Tracker Weekly Review, including information on U.S. cases, variants, testing, vaccinations, hospitalizations, and deaths.
+]
+
+Is this document relevant? (y/n)
+y
+
+Document 4
+[
+        Title:
+        COVID - Coronavirus Statistics - Worldometer
+
+        URL:
+        https://www.worldometers.info/coronavirus/
+
+        Snippet:
+        Daily and weekly updated statistics tracking the number of COVID-19 cases, recovered, and deaths. Historical data with cumulative charts, graphs, ...
+]
+
+Is this document relevant? (y/n)
+y
+
+Document 5
+[
+        Title:
+        Risk for COVID-19 Infection, Hospitalization, and Death By Race ...
+
+        URL:
+        https://www.cdc.gov/coronavirus/2019-ncov/covid-data/investigations-discovery/hospitalization-death-by-race-ethnicity.html
+
+        Snippet:
+        If the effect of age is not accounted for, racial and ethnic disparities can be underestimated or overestimated. Footnotes. 1Data Source: Case level ...
+]
+
+Is this document relevant? (y/n)
+y
+
+Document 6
+[
+        Title:
+        COVID-19 Data for Pennsylvania
+
+        URL:
+        https://www.health.pa.gov/topics/disease/coronavirus/pages/cases.aspx
+
+        Snippet:
+        The COVID-19 Dashboard discloses the number of confirmed and probable cases, deaths, ZIP-code level data, hospital preparedness, and case and death ...
+]
+
+Is this document relevant? (y/n)
+y
+
+Document 7
+[
+        Title:
+        COVID-19: Latest Data - NYC Health
+
+        URL:
+        https://www.nyc.gov/site/doh/covid/covid-19-data.page
+
+        Snippet:
+        Vaccinated New Yorkers have much lower rates of cases, hospitalizations, and deaths. About the data for this chart. Get the data.
+]
+
+Is this document relevant? (y/n)
+y
+
+Document 8
+[
+        Title:
+        COVID-19 Nursing Home Data - Centers for Medicare & Medicaid ...
+
+        URL:
+        https://data.cms.gov/covid-19/covid-19-nursing-home-data
+
+        Snippet:
+        The Nursing Home COVID-19 Public File includes data reported by nursing homes to ... Total Resident COVID-19 Confirmed Cases ... Total Staff COVID-19 Deaths ...
+]
+
+Is this document relevant? (y/n)
+y
+
+Document 9
+[
+        Title:
+        COVID-19 cases and deaths | San Francisco
+
+        URL:
+        https://sf.gov/data/covid-19-cases-and-deaths
+
+        Snippet:
+        COVID-19 cases and deaths · New cases. We track the number of new cases to show how quickly the virus is spreading. · New cases by vaccination status. The data ...
+]
+
+Is this document relevant? (y/n)
+y
+
+Target precision:  0.9
+Precision:  1.0
+Reached target precision! Done

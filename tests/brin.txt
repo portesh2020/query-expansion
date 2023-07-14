@@ -1,0 +1,312 @@
+Query:  brin
+
+Document 0
+[
+        Title:
+        Sergey Brin - Wikipedia
+
+        URL:
+        https://en.wikipedia.org/wiki/Sergey_Brin
+
+        Snippet:
+        Sergey Mikhailovich Brin is an American business magnate, computer scientist, and internet entrepreneur, who co-founded Google with Larry Page. Brin was the ...
+]
+
+Is this document relevant? (y/n)
+y
+
+Document 1
+[
+        Title:
+        worlds of David Brin
+
+        URL:
+        https://www.davidbrin.com/
+
+        Snippet:
+        David Brin is best-known for shining light — plausibly and entertainingly — on technology, society, and countless challenges confronting our rambunctious ...
+]
+
+Is this document relevant? (y/n)
+n
+
+Document 2
+[
+        Title:
+        Brin Glass Company: Home
+
+        URL:
+        https://www.bringlass.com/
+
+        Snippet:
+        Brin's glasswork shines in these Corporate, Healthcare, Education, Hospitality, Residential, Nonprofit, Government, and Retail projects.
+]
+
+Is this document relevant? (y/n)
+n
+
+Document 3
+[
+        Title:
+        Documentation: 15: 71.1. Introduction - PostgreSQL
+
+        URL:
+        https://www.postgresql.org/docs/current/brin-intro.html
+
+        Snippet:
+        BRIN stands for Block Range Index. BRIN is designed for handling very large tables in which certain columns have some natural correlation with their ...
+]
+
+Is this document relevant? (y/n)
+n
+
+Document 4
+[
+        Title:
+        Brin & Brin LLC – Law Firm
+
+        URL:
+        https://www.brinandbrin.com/
+
+        Snippet:
+        The litigation, transactional and compliance lawyers at Brin & Brin have proven success in some of the toughest Texas venues. ... We have represented clients in a ...
+]
+
+Is this document relevant? (y/n)
+n
+
+Document 5
+[
+        Title:
+        brin - Wiktionary
+
+        URL:
+        https://en.wiktionary.org/wiki/brin
+
+        Snippet:
+        NounEdit · One of the radiating sticks of a fan. The outermost are larger and longer, and are called panaches. · A single silkworm thread extruded from the gland, ...
+]
+
+Is this document relevant? (y/n)
+n
+
+Document 6
+[
+        Title:
+        Google Calls In Larry Page and Sergey Brin to Tackle ChatGPT and ...
+
+        URL:
+        https://www.nytimes.com/2023/01/20/technology/google-chatgpt-artificial-intelligence.html
+
+        Snippet:
+        Jan 20, 2023 ... Last month, Larry Page and Sergey Brin, Google's founders, held several meetings with company executives. The topic: a rival's new chatbot, ...
+]
+
+Is this document relevant? (y/n)
+y
+
+Document 7
+[
+        Title:
+        Sergey Brin
+
+        URL:
+        https://www.forbes.com/profile/sergey-brin/
+
+        Snippet:
+        7 Sergey Brin on the 2022 Forbes 400 - Sergey Brin stepped down as president of Alphabet, parent company of Google, in December 2019 but remains a ...
+]
+
+Is this document relevant? (y/n)
+y
+
+Document 8
+[
+        Title:
+        Brin Levinson
+
+        URL:
+        https://www.brinlevinson.com/
+
+        Snippet:
+        The Art of Brin Levinson.
+]
+
+Is this document relevant? (y/n)
+n
+
+Document 9
+[
+        Title:
+        Homescreen Glow | brin
+
+        URL:
+        https://brinsound.bandcamp.com/album/homescreen-glow
+
+        Snippet:
+        Brin is a strand of rhythmic audio expressionism for the online world through the lens of LA-based artist Colin Blanton. Homescreen Glow, the full-length ...
+]
+
+Is this document relevant? (y/n)
+n
+
+Target precision:  0.9
+Precision:  0.3
+Augmenting query by 'sergey' and 'larry'
+Final query with ordering:  brin sergey larry
+
+Query:  brin sergey larry
+
+Document 0
+[
+        Title:
+        Larry Page - Wikipedia
+
+        URL:
+        https://en.wikipedia.org/wiki/Larry_Page
+
+        Snippet:
+        Lawrence Edward Page (born March 26, 1973) is an American business magnate, computer scientist and internet entrepreneur. He is best known for co-founding ...
+]
+
+Is this document relevant? (y/n)
+n
+
+Document 1
+[
+        Title:
+        Google Calls In Larry Page and Sergey Brin to Tackle ChatGPT and ...
+
+        URL:
+        https://www.nytimes.com/2023/01/20/technology/google-chatgpt-artificial-intelligence.html
+
+        Snippet:
+        Jan 20, 2023 ... Last month, Larry Page and Sergey Brin, Google's founders, held several meetings with company executives. The topic: a rival's new chatbot, ...
+]
+
+Is this document relevant? (y/n)
+y
+
+Document 2
+[
+        Title:
+        Sergey Brin - Wikipedia
+
+        URL:
+        https://en.wikipedia.org/wiki/Sergey_Brin
+
+        Snippet:
+        Sergey Mikhailovich Brin is an American business magnate, computer scientist, and internet entrepreneur, who co-founded Google with Larry Page. Brin was the ...
+]
+
+Is this document relevant? (y/n)
+y
+
+Document 3
+[
+        Title:
+        Here's What Sergey Brin and Larry Page Are Doing Since Leaving ...
+
+        URL:
+        https://www.businessinsider.com/what-sergey-brin-and-larry-page-doing-since-leaving-google-2022-12
+
+        Snippet:
+        Dec 13, 2022 ... 1. Inside the lavish, secretive, post-Google lives of Sergey Brin and Larry Page. Since stepping back from Google in 2019, the company's ...
+]
+
+Is this document relevant? (y/n)
+y
+
+Document 4
+[
+        Title:
+        Google founders Larry Page and Sergey Brin step back from top ...
+
+        URL:
+        https://www.bbc.com/news/technology-50653345
+
+        Snippet:
+        Dec 4, 2019 ... Google founders Larry Page and Sergey Brin have announced they are stepping down from top roles at the online giant's parent company.
+]
+
+Is this document relevant? (y/n)
+y
+
+Document 5
+[
+        Title:
+        Google Asked Larry Page, Sergey Brin for Help After ChatGPT ...
+
+        URL:
+        https://www.businessinsider.com/google-larry-page-sergey-brin-help-chatgpt-code-red-2023-1
+
+        Snippet:
+        Jan 21, 2023 ... Google called on cofounders Larry Page and Sergey Brin in ChatGPT fightback after issuing a 'code red', report says.
+]
+
+Is this document relevant? (y/n)
+y
+
+Document 6
+[
+        Title:
+        A letter from Larry and Sergey
+
+        URL:
+        https://blog.google/alphabet/letter-from-larry-and-sergey/
+
+        Snippet:
+        Dec 3, 2019 ... A letter from Larry and Sergey ... Larry Page and Sergey Brin ... today as you read the news Larry and Sergey have just posted to our blog.
+]
+
+Is this document relevant? (y/n)
+y
+
+Document 7
+[
+        Title:
+        Google Founders Sergey Brin, Larry Page Step Down; Pichai ...
+
+        URL:
+        https://www.npr.org/2019/12/03/784570156/google-founders-brin-page-step-down-pichai-takes-over-as-alphabet-ceo
+
+        Snippet:
+        Dec 3, 2019 ... Ending an era at the Internet's biggest search company, Google co-founders Sergey Brin and Larry Page are leaving their leadership roles and CEO ...
+]
+
+Is this document relevant? (y/n)
+y
+
+Document 8
+[
+        Title:
+        Larry Page and Sergey Brin Hand Over Alphabet's Reins | WIRED
+
+        URL:
+        https://www.wired.com/story/larry-page-sergey-brin-step-down/
+
+        Snippet:
+        Dec 3, 2019 ... As the company faces a series of antitrust investigations and mounting employee unrest, its two cofounders, Larry Page and Sergey Brin, ...
+]
+
+Is this document relevant? (y/n)
+y
+
+Document 9
+[
+        Title:
+        Google founders Page, Brin, have sold $1 billion in stock since May
+
+        URL:
+        https://www.cnbc.com/2021/07/30/google-founders-page-brin-have-sold-1-billion-in-stock-since-may.html
+
+        Snippet:
+        Jul 30, 2021 ... Larry Page and Sergey Brin last sold shares in 2017, when their last plan expired. Since then, the stock price has nearly tripled.
+]
+
+Is this document relevant? (y/n)
+y
+
+Target precision:  0.9
+Precision:  0.9
+Reached target precision! Done
